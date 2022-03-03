@@ -4,9 +4,9 @@ import cred from "./novemberpool-da277129be32.json";
 
 const loadDoc = async () => {
     try {
-        // Init Doc
+        // Init Doc - DOC_ID: 1rGjDGXdnSly6xqhwiudxUiLViLBeXze2mZyGkllocek
         const doc = new GoogleSpreadsheet(
-            "1rGjDGXdnSly6xqhwiudxUiLViLBeXze2mZyGkllocek"
+            "PUT_YOUR_DOC_ID"
         );
 
         // Auth
