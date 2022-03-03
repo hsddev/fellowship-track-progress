@@ -1,5 +1,6 @@
 // Dependencies
 import { GoogleSpreadsheet } from "google-spreadsheet";
+// Json credentials file generated from console.cloud.google.com/apis
 import cred from "./novemberpool-da277129be32.json";
 
 const loadDoc = async () => {
